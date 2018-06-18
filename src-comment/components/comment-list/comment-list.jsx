@@ -1,9 +1,9 @@
 import React, {Component} from 'react'
-import PropTypes from 'prop-types'      // 如果要对外界传来的数据做出显示，需要导入这个规则包
-
+import PropTypes from 'prop-types' // 如果要对外界传来的数据做出显示，需要导入这个规则包
 // 引入显示列表每个item的组件
 import CommentItem from '../comment-item/comment-item'
-import './commentList.css'      /*导入css样式*/
+import './commentList.css'
+/*导入css样式*/
 
 export default class CommentList extends Component {
 

@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-
 /*导入我们拆分出来的自定义标签*/
 import CommentAdd from '../comment-add/comment-add'
 import CommentList from '../comment-list/comment-list'
